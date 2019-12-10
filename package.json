@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": " https://hidden-waters-67012.herokuapp.com/"
+    "url": "git+https://github.com/bsjherbert/burger.git"
   },
   "author": "",
   "license": "ISC",
